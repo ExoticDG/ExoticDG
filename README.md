@@ -28,6 +28,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="30" alt="visualstudio logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
@@ -45,7 +47,10 @@
 
 <div align="center">
   <a href="https://www.youtube.com/@ExoticDarknessGaming" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=ExoticDarknessGaming&logo=youtube&label=Youtube&color=grey&logoColor=white&labelColor=FF0000&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://exoticdg.github.io" target="_blank">
+    <img src="https://github.com/ExoticDG/ExoticDG/blob/893e8ae2ba63c31b7422758c478c3ff52c67f124/ytbanner.png" height="35" alt="ExoticDarknessGaming logo"  />
   </a>
 </div>
 
