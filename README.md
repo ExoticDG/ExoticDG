@@ -1,5 +1,8 @@
 <h2 align="left">Hello!</h2>
 
+Dispite what GitHub says I mainly code in Rust and Kolten. Theres just a bunch of computer compiled / genrated things that are not in Rust or Kolten.
+
+
 ###
 
 <div align="center">
