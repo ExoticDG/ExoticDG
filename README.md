@@ -1,38 +1,17 @@
-<h2 align="left">Hello!</h2>
+## Hello!
 
-Despite what GitHub may say, I mainly code in Rust. Theres just a bunch of compiler generated stuff. 
+I do random coding things. My main programing languadge is Rust. A bunch of others I can technicaly work with, but Rust is better. 
 
-###
+Linux is better. I use Fedora KDE and sometimes Kubutu. If I am using Windows compilation will be done via WSL. 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExoticDG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ExoticDG&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+Write code using RustRover and InteliJ IDEA. Left VS Code after Microsoft did a Microsoft. If I'm doing something for Andriod I use Android Studio. Or RustRover if its in Rust with Tauri or something. I dont do IOS. Or any of the Apple ecosystem. By IOS I am refering to the phone opperating system from Apple, not the (better) propriatary server opperating system from Cisco. Theres a reason I use a Framework computer. 
 
-###
+I can work my way arround Google Cloud and Google Firebase. And AWS Lightsail. 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/ExoticDG/count.svg?"  />
-</div>
+About AI. It cant fully write Rust, I use it as a development accselerator for some things. My view on that is I can either spend ten minutes looking on Startpage (or Google/) to find someone on StackOverflow or Reddit who has done it before me, or ask AI. As for which AI, Mistral / Codestril is probably the best one. And I can host those ones. I will use Gemini as well, and Claude. Though Antrhopic may be off that list soon. They make good Ai, and previously was a decent-ish company.. Though that may change. Gemini is from DeepMind, who has things such as AlphaFold. Though is from Google. And has things such as Lyira, Imagen, and Veo. One thing I will not do with AI however, is creative work. Images, Videos, Lyrics, Creative writing, are a no.  
 
-###
+## Main Project
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+PRTGN. That is currrently the largest project I am working on. 
 
-###
+Find out all about it [here](https://github.com/PRTGN-Development-Team). 
